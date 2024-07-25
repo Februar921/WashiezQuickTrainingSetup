@@ -1,0 +1,15 @@
+start https://app.hyra.io/6311252faf98dc9ef22ec147/activity/sessions
+timeout /t 1
+start https://docs.google.com/document/d/15reP-2vdiQ0wRTTejvz-De-VUxpTd4t-C1lqSeY2xyg/edit#heading=h.jduc3gs8dlzu
+timeout /t 1
+start https://docs.google.com/document/d/1crDi-fnVqNXStHT73WhWiTCq18aBOj7LuJUpNo4b0VM/edit#heading=h.jduc3gs8dlzu
+timeout /t 1
+start https://docs.google.com/document/d/1loc9UwxP3s4OcdtQEhNOOe9wO8LDlW0SaCHL_pmOSTk/edit#heading=h.jduc3gs8dlzu
+timeout /t 1
+start https://docs.google.com/document/d/1KUe4d7tRqSdODBIri_mWNxhYB66n7CXJzlnKxMlhVc0/edit#heading=h.jduc3gs8dlzu
+timeout /t 1
+start https://www.deepl.com/de/translator
+timeout /t 1
+start https://www.roblox.com/home
+timeout /t 1
+start https://www.roblox.com/games/6868593153/Training-Center
